@@ -41,8 +41,9 @@ Settings
 <br><br>
 
 Various animations are used throughout the app
--- ![""](1.gif)
--- ![""](2.gif)
+- ![""](1.gif)
+  
+- ![""](2.gif)
   
 <br><br>
 <br><br>
