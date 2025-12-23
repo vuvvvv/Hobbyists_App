@@ -6,9 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.abdulaziz.hobbies">
+  <a 
     <img src="icon.png" width="160"/>
-<p align="center">
+<p align="center" href="https://play.google.com/store/apps/details?id=com.abdulaziz.hobbies">
+
   👉 <b>Download on Google Play</b>
 </p>
 
