@@ -5,6 +5,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF6F00&center=true&vCenter=true&width=600&lines=Hawyeen+🎨;Explore+Local+Hobbies;Built+with+Flutter+%26+Rive" />
 </p>
 
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.abdulaziz.hobbies">
+    <img src="icon.png" width="160"/>
+  </a>
+</p>
+
+<p align="center">
+  👉 <b>Download on Google Play</b>
+</p>
+
+
  
 
 🚨 Discover your neighbors’ hobbies with Hawyeen.
