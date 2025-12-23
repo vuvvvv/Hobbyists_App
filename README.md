@@ -1,6 +1,12 @@
 
 # HawyeenApp ++
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF6F00&center=true&vCenter=true&width=600&lines=Hawyeen+🎨;Explore+Local+Hobbies;Built+with+Flutter+%26+Rive" />
+</p>
+
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+
 🚨 Discover your neighbors’ hobbies with Hawyeen.
 
 <br><br>
@@ -41,9 +47,15 @@ Settings
 <br><br>
 
 Various animations are used throughout the app
-- ![""](1.gif)
-  
-- ![""](2.gif)
+
+<p align="center">
+  <img src="1.gif" width="300"/>
+</p>
+
+<p align="center">
+  <img src="2.gif" width="300"/>
+</p>
+
   
 <br><br>
 <br><br>
